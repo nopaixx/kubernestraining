@@ -61,3 +61,12 @@ minikube ssh # nos conectamos por ssh a la consola del master
 
 kubectl port-forwarding webserver
 
+
+
+## REPLICATION CONTROLER
+
+Numero de copias de ejecucion de un pod
+
+kubectl get rc,po
+
+kubectl get rc,podd
